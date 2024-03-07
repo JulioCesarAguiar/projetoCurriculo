@@ -1,0 +1,60 @@
+.page{
+    background-color: #FFFFE4;
+}
+
+.Nome{
+    font-family: Inter;
+    font-weight: 700;
+
+}
+
+.SubTitulo{
+    font-family: Inter;
+    font-weight: 700;
+    display: flex;
+}
+
+.imgs{
+    display: flex;
+    
+}
+
+.InfoPessoais{
+    font-family: Inter;
+    font-size: 20px;
+}
+
+
+.tecnologias{
+    width: 350px;
+    display: flex;   
+}
+
+.pythonicon{
+    width: 120px;
+    height: 120px;
+    display: flex;
+
+}
+
+.buttaoEnviar{
+    
+}
+
+form{
+    text-align: start;
+    justify-content: center;
+}
+
+.email{
+    font-size: 0.93em;
+}
+
+.fone{
+    padding-left: 5px;
+}
+
+.iconG{
+    font-size: 20px;
+    color:crimson ;
+}
